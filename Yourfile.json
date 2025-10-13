@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4bc5176acb88f683",
+        "key": "Fajar3211",
+        "expirydate": "15-11-2090",
+        "Allowoffline": false
     }
 ]
